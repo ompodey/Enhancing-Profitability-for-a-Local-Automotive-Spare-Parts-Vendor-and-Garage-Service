@@ -1,4 +1,4 @@
-# Enhancing Profitability for a Local Automotive Spare Parts Vendor and Garage Service
+# Enhancing Profitability for a Local Automotive Spare Parts Vendor and Garage Service 
 
 **Capstone Project | Business Data Management | IIT Madras**  
 
@@ -64,6 +64,21 @@ This project focused on enhancing the **profitability and operational efficiency
 - **Hypothesis Testing**
 
 ## Presentaion
-- [BDM capstone project presentation.pptx](https://github.com/user-attachments/files/22950430/BDM.capstone.project.presentation.pptx)
+<img width="6000" height="3375" alt="BDM capstone project presentation-1" src="https://github.com/user-attachments/assets/a646bc21-7a2b-425a-a47c-3ca25cd7d78b" />
+<img width="6000" height="3375" alt="BDM capstone project presentation-2" src="https://github.com/user-attachments/assets/7dcbe01c-178f-402e-b2c7-d489a0ec684a" />
 
+
+<img width="6000" height="3375" alt="BDM capstone project presentation-3" src="https://github.com/user-attachments/assets/909a8189-ce8d-49a8-86fa-63e8f104090c" />
+<img width="6000" height="3375" alt="BDM capstone project presentation-4" src="https://github.com/user-attachments/assets/ce4900ee-234d-4088-9ef6-e90f3a10574f" />
+<img width="6000" height="3375" alt="BDM capstone project presentation-5" src="https://github.com/user-attachments/assets/c9962367-e40b-4486-9b58-303008eb08de" />
+<img width="6000" height="3375" alt="BDM capstone project presentation-6" src="https://github.com/user-attachments/assets/c5543d4b-2d23-4958-ad82-9c7b57fbea38" />
+<img width="6000" height="3375" alt="BDM capstone project presentation-7" src="https://github.com/user-attachments/assets/4f8424a8-5ce7-44a8-82cc-ff7cbba66ba3" />
+<img width="6000" height="3375" alt="BDM capstone project presentation-8" src="https://github.com/user-attachments/assets/2e4256cf-8daf-417a-8624-4ff768206360" />
+
+<img width="6000" height="3375" alt="BDM capstone project presentation-9" src="https://github.com/user-attachments/assets/da9000aa-230f-4c06-ba23-d568da7e8da3" />
+
+
+<img width="6000" height="3375" alt="BDM capstone project presentation-10" src="https://github.com/user-attachments/assets/b4b00b50-4878-4d50-8466-9ae5331ffc4a" />
+
+<img width="6000" height="3375" alt="BDM capstone project presentation-11" src="https://github.com/user-attachments/assets/31f3874a-068f-4f35-b26e-3dd3142f49a4" />
 
